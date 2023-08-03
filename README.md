@@ -21,5 +21,5 @@
 
 ## SAMPLE IMAGES
 <div>
-	<img src="https://github.com/Dipanjali1/Image2MarkUP/blob/main/Image2MarkUP.png" width="400px" height="200px">
+	![alt text](https://github.com/Dipanjali1/Image2MarkUP/blob/main/Image2MarkUP.png?raw=true)
 </div>
