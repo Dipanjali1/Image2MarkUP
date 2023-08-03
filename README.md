@@ -21,5 +21,5 @@
 
 ## SAMPLE IMAGES
 <div>
-	![Imaget](Image2MarkUP.png)
+	![Image](Image2MarkUP/Image2MarkUP.png)
 </div>
